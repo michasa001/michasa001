@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Michael 
+
+- 🌱 I’m currently learning to be a very good web3 developer
+
+See you on the other side!!
 
 <!--
 **michasa001/michasa001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
