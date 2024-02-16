@@ -1,4 +1,4 @@
-### Hi, I'm Michael 
+### Hi, I'm Misa
 
 - 🌱 I’m currently learning to be a very good web3 developer
 
